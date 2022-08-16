@@ -1,0 +1,19 @@
+.title-box{
+    background: rgba(255, 255, 255, 0.5);
+    margin-bottom: 36px;
+    box-shadow: rgb(34 51 84 / 10%) 0px 2px 4px -3px, rgb(34 51 84 / 5%) 0px 5px 12px -4px;
+    padding: 36px;
+}
+
+.color-green{
+    background-color: rgba(87, 202, 34, 0.1);
+    color: rgb(87, 202, 34);
+}
+.color-yellow{
+    background-color: rgba(255, 163, 25, 0.1);
+    color: rgb(255, 163, 25);
+}
+.color-red{
+    background-color: rgba(255, 25, 67, 0.1);
+    color: rgb(255, 25, 67);
+}
